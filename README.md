@@ -32,10 +32,6 @@ Finally you can build the application:
 ./build.sh
 ```
 
-# Problems
-
-I am currently working on a fix how to not compile libraries every time you build the application.
-
 # References
 
 - https://www.stereolabs.com/docs/docker/building-arm-container-on-x86/
