@@ -1,1 +1,1 @@
-sudo docker run --rm -v "$(pwd)":/app -w /app --name arm-stack plusleft/arm-stack:latest stack build --allow-different-user --skip-ghc-check --system-ghc
+sudo docker run --rm -v "$(pwd)":/app -w /app --name arm-stack plusleft/arm-stack-build:latest stack build --allow-different-user --skip-ghc-check --system-ghc
